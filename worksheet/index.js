@@ -12,7 +12,7 @@ $(document).ready(function(){
 		
 		
 		//jsonPath = 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
-	
+		jsonPath = jsonPath + ".json";
 		$.getJSON(jsonPath, function(results) {
 		  data = results;
 		  populateQuestionsAndAns(data);
