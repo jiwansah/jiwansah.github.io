@@ -72,7 +72,7 @@ function populateQuestionsAndAns(data) {
 			  totalQuestions++;
 			  let row = 0;
 			   
-			   questionAndAns = questionAndAns + '<br/><br/><div id="question_' + totalQuestions + '">' + totalQuestions + ") "+ ques.question + '</div>';
+			   questionAndAns = questionAndAns + '<br/><br/><div id="question_' + totalQuestions + '">' + totalQuestions + ")"+ ques.question + '</div>';
 			   questionAndAns = questionAndAns + '<div id="radioset_' + totalQuestions + '">';
 				ques.options.forEach(function(opti) {
 					row++;
