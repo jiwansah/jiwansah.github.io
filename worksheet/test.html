@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data Display</title>
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="output"></div>
+
+    <script>
+        // Use jQuery to fetch JSON data
+        $.getJSON('https://jsonplaceholder.typicode.com/todos', function(data) {
+            // Assuming data is an array of objects in the JSON file
+            var output = '';
+
+            // Loop through the data and build the output
+            data.forEach(function(item) {
+                output += '<p>Name: ' + item.title + '<br>';
+                output += 'Age: ' + item.id + '</p>';
+            });
+
+            // Display the output in the designated div
+            $('#output').html(output);
+        });
+    </script>
+</body>
+</html>

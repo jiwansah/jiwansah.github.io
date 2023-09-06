@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Pronoun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Choose the correct pronoun to complete the sentence:</b><br/> ________________is a doctor.",
+      "options": [
+        {
+          "id": "A",
+          "option": "He"
+        },
+        {
+          "id": "B",
+          "option": "It"
+        },
+        {
+          "id": "C",
+          "option": "She"
+        },
+        {
+          "id": "D",
+          "option": "They"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "Mohan is a good boy. ____________ had helped me many times.",
+      "options": [
+        {
+          "id": "A",
+          "option": "He"
+        },
+        {
+          "id": "B",
+          "option": "Him"
+        },
+        {
+          "id": "C",
+          "option": "His"
+        },
+        {
+          "id": "D",
+          "option": "Your"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": "The food is stale. ____________ should not eat  it.",
+      "options": [
+        {
+          "id": "A",
+          "option": "You"
+        },
+        {
+          "id": "B",
+          "option": "Them"
+        },
+        {
+          "id": "C",
+          "option": "His"
+        },
+        {
+          "id": "D",
+          "option": "It"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "______________ parents are going out to watch a movie.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Them"
+        },
+        {
+          "id": "B",
+          "option": "Our"
+        },
+        {
+          "id": "C",
+          "option": "It"
+        },
+        {
+          "id": "D",
+          "option": "Him"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "Mrs. Sharma is my favourite teacher. _________ teaches English.",
+      "options": [
+        {
+          "id": "A",
+          "option": "There"
+        },
+        {
+          "id": "B",
+          "option": "She"
+        },
+        {
+          "id": "C",
+          "option": "They"
+        },
+        {
+          "id": "D",
+          "option": "Her"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "_____________ paintings near me look very beautiful.",
+      "options": [
+        {
+          "id": "A",
+          "option": "These"
+        },
+        {
+          "id": "B",
+          "option": "Those"
+        },
+        {
+          "id": "C",
+          "option": "They"
+        },
+        {
+          "id": "D",
+          "option": "These"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": "My brother is a naughty boy. __________ always jumps on sofa.",
+      "options": [
+        {
+          "id": "A",
+          "option": "His"
+        },
+        {
+          "id": "B",
+          "option": "Him"
+        },
+        {
+          "id": "C",
+          "option": "It"
+        },
+        {
+          "id": "D",
+          "option": "He"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": "You should discuss the matter with ________________ parents.",
+      "options": [
+        {
+          "id": "A",
+          "option": "him"
+        },
+        {
+          "id": "B",
+          "option": "he"
+        },
+        {
+          "id": "C",
+          "option": "your"
+        },
+        {
+          "id": "D",
+          "option": "them"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": "I have a parrot. My uncle gifted _____________ to me.",
+      "options": [
+        {
+          "id": "A",
+          "option": "her"
+        },
+        {
+          "id": "B",
+          "option": "him"
+        },
+        {
+          "id": "C",
+          "option": "I"
+        },
+        {
+          "id": "D",
+          "option": "it"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": "You should finish ______________ lunch. ",
+      "options": [
+        {
+          "id": "A",
+          "option": "me"
+        },
+        {
+          "id": "B",
+          "option": "they"
+        },
+        {
+          "id": "C",
+          "option": "you"
+        },
+        {
+          "id": "D",
+          "option": "your"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Noun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Choose the words for countable and uncountable nouns in the following sentences:</b> <br/> The teacher gave her students_______________homework.",
+      "options": [
+        {
+          "id": "A",
+          "option": "many"
+        },
+        {
+          "id": "B",
+          "option": "lots"
+        },
+        {
+          "id": "C",
+          "option": "a lot of"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "There is still __________ honey in the jar.",
+      "options": [
+        {
+          "id": "A",
+          "option": "some"
+        },
+        {
+          "id": "B",
+          "option": "many"
+        },
+        {
+          "id": "C",
+          "option": "a few"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": "Are there __________ insects in that place?",
+      "options": [
+        {
+          "id": "A",
+          "option": "much"
+        },
+        {
+          "id": "B",
+          "option": "many"
+        },
+        {
+          "id": "C",
+          "option": "a little"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": " I gave my younger son ___________ sweets for his school.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a few"
+        },
+        {
+          "id": "B",
+          "option": "a little"
+        },
+        {
+          "id": "C",
+          "option": "much"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "I invited _________ of my friends.",
+      "options": [
+        {
+          "id": "A",
+          "option": "little"
+        },
+        {
+          "id": "B",
+          "option": "more"
+        },
+        {
+          "id": "C",
+          "option": "some"
+        },
+        {
+          "id": "D",
+          "option": "much"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "You need _________ sand to build a castle.",
+      "options": [
+        {
+          "id": "A",
+          "option": "many"
+        },
+        {
+          "id": "B",
+          "option": "a lot of"
+        },
+        {
+          "id": "C",
+          "option": "few"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": "How _____________ flour did you put in the cake?",
+      "options": [
+        {
+          "id": "A",
+          "option": "much"
+        },
+        {
+          "id": "B",
+          "option": "many"
+        },
+        {
+          "id": "C",
+          "option": "some"
+        },
+        {
+          "id": "D",
+          "option": "none of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": "I saw _________ my classmates yesterday.",
+      "options": [
+        {
+          "id": "A",
+          "option": "many"
+        },
+        {
+          "id": "B",
+          "option": "a lot"
+        },
+        {
+          "id": "C",
+          "option": "a few of"
+        },
+        {
+          "id": "D",
+          "option": "some"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": "__________ people attended the function.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Many"
+        },
+        {
+          "id": "B",
+          "option": "Much"
+        },
+        {
+          "id": "C",
+          "option": "A lot"
+        },
+        {
+          "id": "D",
+          "option": "Lots"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": "Rachit knows _____________ about computers.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a lot"
+        },
+        {
+          "id": "B",
+          "option": "a lot of"
+        },
+        {
+          "id": "C",
+          "option": "many"
+        },
+        {
+          "id": "D",
+          "option": "some"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Pronoun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b> Choose the correct pronoun from the given options</b> <br/> Richa and her mother are playing chess.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Richa"
+        },
+        {
+          "id": "B",
+          "option": "Mother"
+        },
+        {
+          "id": "C",
+          "option": "Chess"
+        },
+        {
+          "id": "D",
+          "option": "Her"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "Tell Jatin to come and meet me in the office.",
+      "options": [
+        {
+          "id": "A",
+          "option": "to"
+        },
+        {
+          "id": "B",
+          "option": "And"
+        },
+        {
+          "id": "C",
+          "option": "me"
+        },
+        {
+          "id": "D",
+          "option": "it"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": "The pretty doll on the shelf belongs to her.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Doll"
+        },
+        {
+          "id": "B",
+          "option": "on"
+        },
+        {
+          "id": "C",
+          "option": "The"
+        },
+        {
+          "id": "D",
+          "option": "Her"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": " They are coming to meet us.",
+      "options": [
+        {
+          "id": "A",
+          "option": "They"
+        },
+        {
+          "id": "B",
+          "option": "Coming"
+        },
+        {
+          "id": "C",
+          "option": "US"
+        },
+        {
+          "id": "D",
+          "option": " Both A and C"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "They are discussing the matter with Siya.",
+      "options": [
+        {
+          "id": "A",
+          "option": "They"
+        },
+        {
+          "id": "B",
+          "option": "Matter"
+        },
+        {
+          "id": "C",
+          "option": "With"
+        },
+        {
+          "id": "D",
+          "option": "Siya"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "<b>Choose the correct pronoun to complete the sentence</b> <br/> Are ___________ your marbles over there?",
+      "options": [
+        {
+          "id": "A",
+          "option": "those"
+        },
+        {
+          "id": "B",
+          "option": "it"
+        },
+        {
+          "id": "C",
+          "option": "these"
+        },
+        {
+          "id": "D",
+          "option": "them"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": "Sheena and Geeta are solving the puzzle. Mother is watching ____________.",
+      "options": [
+        {
+          "id": "A",
+          "option": "us"
+        },
+        {
+          "id": "B",
+          "option": "her"
+        },
+        {
+          "id": "C",
+          "option": "him"
+        },
+        {
+          "id": "D",
+          "option": "them"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": "Come and sit beside ________.",
+      "options": [
+        {
+          "id": "A",
+          "option": "my"
+        },
+        {
+          "id": "B",
+          "option": "his"
+        },
+        {
+          "id": "C",
+          "option": "me"
+        },
+        {
+          "id": "D",
+          "option": "their"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": "<b> Choose the correct pronoun from the given options</b><br/> You should follow the traffic rules.",
+      "options": [
+        {
+          "id": "A",
+          "option": "You"
+        },
+        {
+          "id": "B",
+          "option": "Should"
+        },
+        {
+          "id": "C",
+          "option": "Follow"
+        },
+        {
+          "id": "D",
+          "option": "Rules"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": " She met her uncle in his room.",
+      "options": [
+        {
+          "id": "A",
+          "option": "She"
+        },
+        {
+          "id": "B",
+          "option": "His"
+        },
+        {
+          "id": "C",
+          "option": "Her"
+        },
+        {
+          "id": "D",
+          "option": " All of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}
