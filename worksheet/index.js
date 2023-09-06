@@ -28,7 +28,7 @@ $(document).ready(function(){
 
 		$("#questions").show();
 		var urlPath = event.target.valueOf().id+'.json';
-		//alert(urlPath);
+		
 		
 		//urlPath = 'https://mocki.io/v1/f08cc19a-f85e-4b67-b27a-36d4b9627675';  // 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
 	
