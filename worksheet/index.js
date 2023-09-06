@@ -10,9 +10,9 @@ $(document).ready(function(){
 	let jsonPath = url.searchParams.get('path');
 	if(jsonPath!= null && jsonPath.length > 3) {
 		
-		
-		//jsonPath = 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
 		jsonPath = jsonPath + ".json";
+		//jsonPath = 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
+	
 		$.getJSON(jsonPath, function(results) {
 		  data = results;
 		  populateQuestionsAndAns(data);
@@ -28,9 +28,8 @@ $(document).ready(function(){
 
 		$("#questions").show();
 		var urlPath = event.target.valueOf().id+'.json';
-		
-		
-		//urlPath = 'https://mocki.io/v1/f08cc19a-f85e-4b67-b27a-36d4b9627675';  // 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
+				
+		urlPath = 'https://mocki.io/v1/f08cc19a-f85e-4b67-b27a-36d4b9627675';  // 'https://mocki.io/v1/fa8f755a-318d-466e-8c45-a14c19314a64';
 	
 		$.getJSON(urlPath, function(results) {
 		  data = results;
@@ -45,7 +44,6 @@ $(document).ready(function(){
 });
 
 function submitFunction(){
-	//alert("I gave a div an onClick! : "+ totalQuestions);
 	
 	$(":radio").each(function(){
 		$( "#label_"+this.id ).css('border', '0px solid gray');
@@ -74,7 +72,7 @@ function populateQuestionsAndAns(data) {
 			  totalQuestions++;
 			  let row = 0;
 			   
-			   questionAndAns = questionAndAns + '<br/><br/><div id="question_' + totalQuestions + '">' + ques.question + '</div>';
+			   questionAndAns = questionAndAns + '<br/><br/><div id="question_' + totalQuestions + '">' + totalQuestions + ") "+ ques.question + '</div>';
 			   questionAndAns = questionAndAns + '<div id="radioset_' + totalQuestions + '">';
 				ques.options.forEach(function(opti) {
 					row++;
