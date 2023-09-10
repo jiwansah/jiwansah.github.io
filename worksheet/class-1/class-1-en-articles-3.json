@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Noun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "__________ apple a day keeps the doctor away.",
+      "options": [
+        {
+          "id": "A",
+          "option": "A"
+        },
+        {
+          "id": "B",
+          "option": "An"
+        },
+        {
+          "id": "C",
+          "option": "The"
+        },
+        {
+          "id": "D",
+          "option": " No article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "Ram is _______  most favourite player",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " _________ beggar was sleeping under the tree.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "Rohan is sitting on ________ high chair.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "We saw ___________ mongoose near the park.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": " I went to ________ Red Fort yesterday.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": " May I have ________ glass of water, please?",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": " He was born in America. He is _______ American.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": " I have never seen ___________ igloo.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": " Mohan is __________ honest man.",
+      "options": [
+        {
+          "id": "A",
+          "option": "a"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

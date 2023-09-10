@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Verb",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Choose the action word from the given options: </b> <br/>The boy is walking in the park",
+      "options": [
+        {
+          "id": "A",
+          "option": "Boy"
+        },
+        {
+          "id": "B",
+          "option": "Walking"
+        },
+        {
+          "id": "C",
+          "option": "In"
+        },
+        {
+          "id": "D",
+          "option": "Park"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "The hunter is searching for a deer.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Hunter"
+        },
+        {
+          "id": "B",
+          "option": "Is"
+        },
+        {
+          "id": "C",
+          "option": "Searching"
+        },
+        {
+          "id": "D",
+          "option": "Deer"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " Anju listens to her favourite song.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Anju"
+        },
+        {
+          "id": "B",
+          "option": " Song"
+        },
+        {
+          "id": "C",
+          "option": "Favourite"
+        },
+        {
+          "id": "D",
+          "option": "Listens"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "The cricket team rushes into the dressing room",
+      "options": [
+        {
+          "id": "A",
+          "option": "Cricket"
+        },
+        {
+          "id": "B",
+          "option": "Rushes"
+        },
+        {
+          "id": "C",
+          "option": "Team"
+        },
+        {
+          "id": "D",
+          "option": "Dressing room"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "Kunal solves the mathematics problems on the blackboard.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Kunal"
+        },
+        {
+          "id": "B",
+          "option": "The"
+        },
+        {
+          "id": "C",
+          "option": "Solves"
+        },
+        {
+          "id": "D",
+          "option": " Problems"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "The teacher asked me a question.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Asked"
+        },
+        {
+          "id": "B",
+          "option": " Me"
+        },
+        {
+          "id": "C",
+          "option": " Teacher"
+        },
+        {
+          "id": "D",
+          "option": "Question"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": " Dr Sharma examines her patient.",
+      "options": [
+        {
+          "id": "A",
+          "option": " Dr Sharma"
+        },
+        {
+          "id": "B",
+          "option": "Her"
+        },
+        {
+          "id": "C",
+          "option": "Patient"
+        },
+        {
+          "id": "D",
+          "option": "Examines"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": "The farmer watered the plants.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Farmer"
+        },
+        {
+          "id": "B",
+          "option": "Watered"
+        },
+        {
+          "id": "C",
+          "option": "The"
+        },
+        {
+          "id": "D",
+          "option": "Plants"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": " Rohan hits the ball over the boundary.",
+      "options": [
+        {
+          "id": "A",
+          "option": "Rohan"
+        },
+        {
+          "id": "B",
+          "option": "Hits"
+        },
+        {
+          "id": "C",
+          "option": "Ball"
+        },
+        {
+          "id": "D",
+          "option": "Boundary"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": "John is reciting a poem confidently",
+      "options": [
+        {
+          "id": "A",
+          "option": "John"
+        },
+        {
+          "id": "B",
+          "option": "Reciting"
+        },
+        {
+          "id": "C",
+          "option": "Poem"
+        },
+        {
+          "id": "D",
+          "option": "Confidently"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

@@ -87,7 +87,8 @@ function populateQuestionsAndAns(data) {
 				questionAndAns = questionAndAns +'</div> ';
 				
 		  });
-		  questionAndAns = questionAndAns +'<br/><br/><div><button onclick="submitFunction()" id="submit-button">Submit</button> </div> <div id="displayAns" class="text-color-red"> </div>';
+		  questionAndAns = questionAndAns +'<br/><br/><br/>  <div class="container"><div id="displayAns" class="text-color-red"> </div> <div class="vertical-center">' + 
+		  ' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="submitFunction()" id="submit-button">Submit</button> </div> </div> <br/> ';
 		  $("#questions").html(questionAndAns);
 		  for(let count = 1; count <= totalQuestions; count++) {
 			  $( "#radioset_" + count ).buttonset();

@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Noun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Fill in the blanks using auxiliary verbs from the given options</b><br/>Hema's new cardigan blue in __________ colour.",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "am"
+        },
+        {
+          "id": "C",
+          "option": "are"
+        },
+        {
+          "id": "D",
+          "option": "has been"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "They _________ walked a long way",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "are"
+        },
+        {
+          "id": "C",
+          "option": "have"
+        },
+        {
+          "id": "D",
+          "option": "has"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " My father ________ got a new Ferrari.",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "was"
+        },
+        {
+          "id": "C",
+          "option": "have"
+        },
+        {
+          "id": "D",
+          "option": "has"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": " What ___________ you do? I am a doctor.",
+      "options": [
+        {
+          "id": "A",
+          "option": "do"
+        },
+        {
+          "id": "B",
+          "option": "did"
+        },
+        {
+          "id": "C",
+          "option": "am"
+        },
+        {
+          "id": "D",
+          "option": "are"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": " The boys and girls __________ ready for the test.",
+      "options": [
+        {
+          "id": "A",
+          "option": ""
+        },
+        {
+          "id": "B",
+          "option": ""
+        },
+        {
+          "id": "C",
+          "option": ""
+        },
+        {
+          "id": "D",
+          "option": ""
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "They ___________ helping their parents.",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "am"
+        },
+        {
+          "id": "C",
+          "option": "was"
+        },
+        {
+          "id": "D",
+          "option": "are"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": "Rashmi _________ my best friend",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "am"
+        },
+        {
+          "id": "C",
+          "option": "were"
+        },
+        {
+          "id": "D",
+          "option": "are"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": "We ________ at the railway station last night.",
+      "options": [
+        {
+          "id": "A",
+          "option": ""
+        },
+        {
+          "id": "B",
+          "option": ""
+        },
+        {
+          "id": "C",
+          "option": ""
+        },
+        {
+          "id": "D",
+          "option": "B"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": ""
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": " I _______ a new toy car.",
+      "options": [
+        {
+          "id": "A",
+          "option": "am"
+        },
+        {
+          "id": "B",
+          "option": "have"
+        },
+        {
+          "id": "C",
+          "option": "has"
+        },
+        {
+          "id": "D",
+          "option": "was"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": " Oxygen __________ necessary for life.",
+      "options": [
+        {
+          "id": "A",
+          "option": "is"
+        },
+        {
+          "id": "B",
+          "option": "was"
+        },
+        {
+          "id": "C",
+          "option": "are"
+        },
+        {
+          "id": "D",
+          "option": "were"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

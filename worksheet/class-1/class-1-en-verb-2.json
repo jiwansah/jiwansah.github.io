@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Noun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Choose the correct verb from the given options: </b> <br/> A plant _________",
+      "options": [
+        {
+          "id": "A",
+          "option": "learns"
+        },
+        {
+          "id": "B",
+          "option": "runs"
+        },
+        {
+          "id": "C",
+          "option": "grows"
+        },
+        {
+          "id": "D",
+          "option": "walks"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "A flower ____________",
+      "options": [
+        {
+          "id": "A",
+          "option": "blooms"
+        },
+        {
+          "id": "B",
+          "option": "falls"
+        },
+        {
+          "id": "C",
+          "option": "cuts"
+        },
+        {
+          "id": "D",
+          "option": "rides"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " The moon __________",
+      "options": [
+        {
+          "id": "A",
+          "option": "shines"
+        },
+        {
+          "id": "B",
+          "option": "sparkles"
+        },
+        {
+          "id": "C",
+          "option": "lights"
+        },
+        {
+          "id": "D",
+          "option": "burns"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": " The rain _______",
+      "options": [
+        {
+          "id": "A",
+          "option": "flies"
+        },
+        {
+          "id": "B",
+          "option": "flows"
+        },
+        {
+          "id": "C",
+          "option": "burns"
+        },
+        {
+          "id": "D",
+          "option": "falls"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": " The earth ________",
+      "options": [
+        {
+          "id": "A",
+          "option": "rings"
+        },
+        {
+          "id": "B",
+          "option": "shines"
+        },
+        {
+          "id": "C",
+          "option": "glows"
+        },
+        {
+          "id": "D",
+          "option": "revolves"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": " A boat _________",
+      "options": [
+        {
+          "id": "A",
+          "option": "flows"
+        },
+        {
+          "id": "B",
+          "option": "sails"
+        },
+        {
+          "id": "C",
+          "option": "swims"
+        },
+        {
+          "id": "D",
+          "option": "runs"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": " A farmer ___________",
+      "options": [
+        {
+          "id": "A",
+          "option": "stitches"
+        },
+        {
+          "id": "B",
+          "option": "ploughs"
+        },
+        {
+          "id": "C",
+          "option": "washes"
+        },
+        {
+          "id": "D",
+          "option": "treats"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": " A broom _________",
+      "options": [
+        {
+          "id": "A",
+          "option": "sweeps"
+        },
+        {
+          "id": "B",
+          "option": "rings"
+        },
+        {
+          "id": "C",
+          "option": "sails"
+        },
+        {
+          "id": "D",
+          "option": "floats"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": "A parrot ___________",
+      "options": [
+        {
+          "id": "A",
+          "option": "screams"
+        },
+        {
+          "id": "B",
+          "option": "talks"
+        },
+        {
+          "id": "C",
+          "option": "runs"
+        },
+        {
+          "id": "D",
+          "option": "chirps"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": " A spade",
+      "options": [
+        {
+          "id": "A",
+          "option": "cuts"
+        },
+        {
+          "id": "B",
+          "option": "runs"
+        },
+        {
+          "id": "C",
+          "option": "digs"
+        },
+        {
+          "id": "D",
+          "option": "flies"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

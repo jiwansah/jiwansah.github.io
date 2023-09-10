@@ -33,6 +33,9 @@
 	li div{
 		font-size: 1.1em;
 	}
+	label{
+		font-size: 1.1em;
+	}
 	#dialog-link {
 		padding: .4em 1em .4em 20px;
 		text-decoration: none;
@@ -66,6 +69,18 @@
 	}
 	select {
 		width: 200px;
+	}
+	
+	.container {
+	  height: 200px;
+	  position: relative;
+	  text-align: center;
+	}
+
+	.vertical-center {
+	  margin: 0;
+	  position: absolute;
+	  
 	}
 	</style>
 	
@@ -104,15 +119,27 @@
 									<li><div class="li-button" id="class-1/class-1-en-pronoun-2">Worksheet-2</div></li>
 								</ul>
 							</li>
-							<li><div class="li-button">Item 3-3</div></li>
-							<li><div class="li-button">Item 3-4</div></li>
-							<li><div class="li-button">Item 3-5</div></li>
+							<li><div id="1-pronoun" href="#">Verb</div>
+								<ul id="ul-class-1-pronoun">
+									<li><div class="li-button" id="class-1/class-1-en-verb-1">Worksheet-1</div></li>
+									<li><div class="li-button" id="class-1/class-1-en-verb-2">Worksheet-2</div></li>
+									<li><div class="li-button" id="class-1/class-1-en-verb-3">Worksheet-3</div></li>
+								</ul>
+							</li>
+							<li><div id="1-pronoun" href="#">Articles</div>
+								<ul id="ul-class-1-pronoun">
+									<li><div class="li-button" id="class-1/class-1-en-articles-1">Worksheet-1</div></li>
+									<li><div class="li-button" id="class-1/class-1-en-articles-2">Worksheet-2</div></li>
+									<li><div class="li-button" id="class-1/class-1-en-articles-3">Worksheet-3</div></li>
+								</ul>
+							</li>
 						</ul>
 					</li>
 					<li><div>English</div>
 						<ul>
-							<li><div class="li-button">Item 3-1</div></li>
-							<li><div class="li-button">Item 3-2</div></li>
+							<li><div class="li-button" id="class-1/class-1-en-english-1">Worksheet-1</div></li>
+							<li><div class="li-button" id="class-1/class-1-en-english-2">Worksheet-2</div></li>
+							<li><div class="li-button" id="class-1/class-1-en-english-3">Worksheet-3</div></li>
 						</ul>
 					</li>
 					<li><div>Math</div>
@@ -134,13 +161,14 @@
 		</div>
 		
 		<!-- Question answer display-->
-		<div id="questions"> 
+		<div>
+		<div  id="questions"> 
 			
 			Question Answer
 			
 		
 		</div>
-		
+		</div>
        	
 	
 	

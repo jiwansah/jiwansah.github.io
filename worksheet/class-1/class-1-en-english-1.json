@@ -1,0 +1,135 @@
+{
+  "subject": "English",
+  "topic": "English",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Read the given passages and answer the questions that follow:</b><br/><b> SWEETS AND TEETH</b> <br/>Simi and Sweety both were sisters. Simi liked chocolates whereas Sweety liked fruits and salads. Simi was quite ignorant about the harmful effects of chocolates. The chocolate gets stuck between the teeth. It enters into the cavities and the germs flourish in the teeth and gums. One day, Simi visited the dentist. The dentist examined her teeth and suggested a root canal treatment for the weak teeth"  
+      ,
+      "options": [
+        
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": ""
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "Eating chocolate spoils ____________.",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. teeth"
+        },
+        {
+          "id": "B",
+          "option": "B. teeth and gums"
+        },
+        {
+          "id": "C",
+          "option": "C. eyes and ears"
+        },
+        {
+          "id": "D",
+          "option": "D. teeth and tongue"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " Sweety and Simi liked ____________",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. chocolates and fruits"
+        },
+        {
+          "id": "B",
+          "option": "B. chocolates and juices"
+        },
+        {
+          "id": "C",
+          "option": "C. fruits and chocolates"
+        },
+        {
+          "id": "D",
+          "option": "D. fruits, salads and chocolates respectively"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "The germs flourish in __________",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. cavities of cheeks"
+        },
+        {
+          "id": "B",
+          "option": "B. cavities of teeth"
+        },
+        {
+          "id": "C",
+          "option": "C. cavities of the glands"
+        },
+        {
+          "id": "D",
+          "option": "D. all of these"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": " Root canal is a treatment, used for treating _______________",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. gums"
+        },
+        {
+          "id": "B",
+          "option": "B. yellow teeth"
+        },
+        {
+          "id": "C",
+          "option": "C. white teeth"
+        },
+        {
+          "id": "D",
+          "option": "D. weak teeth"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "D"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

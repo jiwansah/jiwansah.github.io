@@ -1,0 +1,134 @@
+{
+  "subject": "English",
+  "topic": "Noun",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b> THE GREEDY DOG</b> <br/>Once, there was a dog carrying a piece of meat in his mouth. He was passing through a jungle. He was crossing a bridge. Suddenly he saw his own shadow in the river. After a while, he thought that another dog was carrying a piece of meat. He tried to snatch that meat also. He barked and the piece of meat which was in his mouth fell into the river. The greedy dog was left with no meat.",
+      "options": [
+        
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": ""
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": " What was the dog carrying in his mouth?",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. A piece of wood"
+        },
+        {
+          "id": "B",
+          "option": "B. A chapati"
+        },
+        {
+          "id": "C",
+          "option": "C. A piece of meat"
+        },
+        {
+          "id": "D",
+          "option": "D. An iron rod"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": " What did the dog see in the river?",
+      "options": [
+        {
+          "id": "A",
+          "option": "A. A duck"
+        },
+        {
+          "id": "B",
+          "option": "B. His own shadow"
+        },
+        {
+          "id": "C",
+          "option": "C. Another dog"
+        },
+        {
+          "id": "D",
+          "option": "D. A boat"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "The dog thought that another dog was __________ a piece of meat.",
+      "options": [
+        {
+          "id": "A",
+          "option": "eating"
+        },
+        {
+          "id": "B",
+          "option": "carrying"
+        },
+        {
+          "id": "C",
+          "option": "drinking"
+        },
+        {
+          "id": "D",
+          "option": "passing"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "What happened when the dog barked?",
+      "options": [
+        {
+          "id": "A",
+          "option": " A. He fell into the river."
+        },
+        {
+          "id": "B",
+          "option": "B. He tried to snatch other dog's piece of meat."
+        },
+        {
+          "id": "C",
+          "option": "C. The piece of meat of his mouth fell into the river."
+        },
+        {
+          "id": "D",
+          "option": "D. He was crossing a bridge."
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

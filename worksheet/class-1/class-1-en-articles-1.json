@@ -1,0 +1,289 @@
+{
+  "subject": "English",
+  "topic": "Articles",
+  "questions": [
+    {
+      "id": "00001",
+      "question": "<b>Choose the correct article to complete the given sentences:</b> <br/> I have __________ extra pen with me.",
+      "options": [
+        {
+          "id": "A",
+          "option": "A"
+        },
+        {
+          "id": "B",
+          "option": " an"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": "no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00002",
+      "question": "My grandfather was ____________ M.L.A.",
+      "options": [
+        {
+          "id": "A",
+          "option": "the"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "a"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00003",
+      "question": "__________ naughty child fell down. ",
+      "options": [
+        {
+          "id": "A",
+          "option": "A"
+        },
+        {
+          "id": "B",
+          "option": "The"
+        },
+        {
+          "id": "C",
+          "option": "An"
+        },
+        {
+          "id": "D",
+          "option": " No article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00004",
+      "question": "_______ moon shines at night.",
+      "options": [
+        {
+          "id": "A",
+          "option": "A"
+        },
+        {
+          "id": "B",
+          "option": "The"
+        },
+        {
+          "id": "C",
+          "option": "An"
+        },
+        {
+          "id": "D",
+          "option": " No article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "B"
+        }
+      ]
+    },
+	{
+      "id": "00005",
+      "question": "I bought __________ new dress.",
+      "options": [
+        {
+          "id": "A",
+          "option": "an"
+        },
+        {
+          "id": "B",
+          "option": "the"
+        },
+        {
+          "id": "C",
+          "option": "a"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00006",
+      "question": "They built a big statue in ________ city park.",
+      "options": [
+        {
+          "id": "A",
+          "option": "an"
+        },
+        {
+          "id": "B",
+          "option": "a"
+        },
+        {
+          "id": "C",
+          "option": " the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00007",
+      "question": "Grandmother told me ____________ story",
+      "options": [
+        {
+          "id": "A",
+          "option": "the"
+        },
+        {
+          "id": "B",
+          "option": "an"
+        },
+        {
+          "id": "C",
+          "option": "a"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00008",
+      "question": ". The speech lasted for __________ hour.",
+      "options": [
+        {
+          "id": "A",
+          "option": "the"
+        },
+        {
+          "id": "B",
+          "option": "a"
+        },
+        {
+          "id": "C",
+          "option": "an"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00009",
+      "question": "Our school has __________ big playground",
+      "options": [
+        {
+          "id": "A",
+          "option": "an"
+        },
+        {
+          "id": "B",
+          "option": "the"
+        },
+        {
+          "id": "C",
+          "option": "a"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "C"
+        }
+      ]
+    },
+	{
+      "id": "00010",
+      "question": "Does _________ ancient city lie under water?",
+      "options": [
+        {
+          "id": "A",
+          "option": "an"
+        },
+        {
+          "id": "B",
+          "option": "a"
+        },
+        {
+          "id": "C",
+          "option": "the"
+        },
+        {
+          "id": "D",
+          "option": " no article"
+        }
+      ],
+      "answers": [
+        {
+          "id": "001",
+          "optionId": "A"
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}
